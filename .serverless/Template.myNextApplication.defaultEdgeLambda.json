@@ -1,0 +1,17 @@
+{
+  "name": "serverless-next-func",
+  "hash": "Umi78Mum9u4uIZvmIcqtxC/gU/CufY31KY6oKVYegBY=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/daichi.aoki/serverless-nextjs/severless-nextjs/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::925136366616:role/5xfnbqi-8pucml"
+  },
+  "arn": "arn:aws:lambda:us-east-1:925136366616:function:serverless-next-func",
+  "region": "us-east-1"
+}

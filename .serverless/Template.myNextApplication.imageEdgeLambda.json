@@ -1,0 +1,17 @@
+{
+  "name": "5xfnbqi-f6m3y1",
+  "hash": "dRQcRVk6kxtMWiudZKqgSmP/87j0mrW3WQRYw/oaea4=",
+  "description": "Image Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/daichi.aoki/serverless-nextjs/severless-nextjs/.serverless_nextjs/image-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::925136366616:role/5xfnbqi-jorvdze"
+  },
+  "arn": "arn:aws:lambda:us-east-1:925136366616:function:5xfnbqi-f6m3y1",
+  "region": "us-east-1"
+}
